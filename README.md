@@ -17,8 +17,10 @@ Auto-Complete folder and Auto-Suggestion folder respectively.</br>
 ∗ Neural-Network Model Auto-Suggestion -> lstm.ipynb(Already</br>
 trained model is present with name as mymodel.h5.Load it directly</br>
 in the ipynb file)</br>
-∗ Probabilistic Model Auto-Suggestion -> Auto_Suggest.ipynb
+∗ Probabilistic Model Auto-Suggestion -> Auto_Suggest.ipynb </br>
 Other Links:</br>
-• Project Report</br>
-• Project Presentation Slides</br>
+
+• Project [Report.pdf](https://github.com/pragyaagrawal19/Auto-suggestion-and-Auto-correction-in-Epics/files/7643862/Report.pdf) </br>
+• Project  [Presentation Slides](https://github.com/pragyaagrawal19/Auto-suggestion-and-Auto-correction-in-Epics/files/7643868/g-22-slides.pdf) </br>
 • Codebase</br>
+
