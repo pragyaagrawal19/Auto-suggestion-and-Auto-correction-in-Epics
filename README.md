@@ -1,11 +1,11 @@
 # Auto-suggestion-and-Auto-correction-in-Epics </br>
 ## Environment setup
 Create a new virtual environment and install all the dependencies mentioned in
-requirements.txt.
-Data Source and Extraction
-• Downloaded raw data from the Internet Sacred Text Archive and stored
+requirements.txt. 
+## Data Source and Extraction
+1. Downloaded raw data from the Internet Sacred Text Archive and stored
 them in the mahabharata-english folder. Processed this raw data to create
-the datasets used in insights and our model.
+the datasets used in insights and our model. 
 • The processed datasets are stored in the data/ folder and the script used
 to process the raw data is Data Collection/read_mahabharata.ipynb.
 Execution
